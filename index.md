@@ -13,6 +13,13 @@ This is more text content.
 
 Interesting, right?
 
+Let's go.
+
+**What should I do to be better at GitHub?** Well...
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ### Interesting
 
 Very interesting.
